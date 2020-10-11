@@ -1,14 +1,6 @@
-# Template Repo
+# FamilyConfigProfiles
 
-Standardized starting point for new repos
-
-## Contents
-
-- [.gitignore](./.gitignore)
-- [CODEOWNERS](./CODEOWNERS)
-- [CONTRIBUTING.md](./CONTRIBUTING.md)
-- [LICENSE](./LICENSE)
-- [README.md](./README.md)
+Sensible Default Configuration Profiles for Family Apple Devices
 
 ## Contributing Workflow
 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft AutoUpdate</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.autoupdate2</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.autoupdate2</string>
+			<key>PayloadUUID</key>
+			<string>C6073809-43AB-4AD4-BFF6-A0E182F3F128</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>DisableInsiderCheckbox</key>
+			<true/>
+			<key>HowToCheck</key>
+			<string>AutomaticDownload</string>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Office</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.office</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.office</string>
+			<key>PayloadUUID</key>
+			<string>978B8F5D-B522-41F2-8F47-118846D50B65</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>DefaultsToLocalOpenSave</key>
+			<true/>
+			<key>VisualBasicEntirelyDisabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>You installed this with Lucas.
+
+This keeps Microsoft Office safe:
+• Automatically installs updates
+• Blocks malicious Office macros
+• Blocks beta versions of Office
+• Saves Office files locally
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Microsoft Office</string>
+	<key>PayloadIdentifier</key>
+	<string>Cantor.3BC0BEE8-C507-4C29-AD93-E0659A806A13</string>
+	<key>PayloadOrganization</key>
+	<string>Cantor</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A6BCDE4B-E2E8-42E7-9126-CE4AD67AD34A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
