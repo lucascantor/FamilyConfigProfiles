@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Google Chrome</string>
+			<key>PayloadIdentifier</key>
+			<string>com.google.Chrome</string>
+			<key>PayloadType</key>
+			<string>com.google.Chrome</string>
+			<key>PayloadUUID</key>
+			<string>281888C1-4ECC-4F81-A343-FE2BCE856C26</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>AutofillAddressEnabled</key>
+			<false/>
+			<key>AutofillCreditCardEnabled</key>
+			<false/>
+			<key>BlockExternalExtensions</key>
+			<true/>
+			<key>ExtensionInstallBlocklist</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>ExtensionInstallForcelist</key>
+			<array>
+				<string>aomjjhallfgjeglblehebfpbcfeobpgk;https://clients2.google.com/service/update2/crx</string>
+				<string>cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx</string>
+			</array>
+			<key>ExtensionInstallAllowlist</key>
+			<array>
+				<string>aomjjhallfgjeglblehebfpbcfeobpgk</string>
+				<string>cjpalhdlnbpafiamejdnhcphjbkeiagm</string>
+				<string>aeblfdkhhhdcdjpifhhbdiojplfjncoa</string>
+			</array>
+			<key>PasswordManagerEnabled</key>
+			<false/>
+			<key>PasswordLeakDetectionEnabled</key>
+			<true/>
+			<key>RelaunchNotification</key>
+			<integer>2</integer>
+			<key>RemoteAccessHostAllowFileTransfer</key>
+			<false/>
+			<key>RemoteAccessHostClientDomainList</key>
+			<array>
+				<string>blocked.cantor.cloud</string>
+			</array>
+			<key>RemoteAccessHostDomainList</key>
+			<array>
+				<string>blocked.cantor.cloud</string>
+			</array>
+			<key>SafeBrowsingProtectionLevel</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>You installed this with Lucas.
+
+This keeps Google Chrome safe:
+• Automatically installs updates
+• Blocks remote control of Chrome
+• Blocks malicious Chrome extensions
+• Installs the uBlock Origin ad blocker
+• Installs the 1Password extension
+• Disables Google's password manager
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Google Chrome</string>
+	<key>PayloadIdentifier</key>
+	<string>Cantor.D6F49A46-3CA0-4F09-A2E0-31F9BDF9CB34</string>
+	<key>PayloadOrganization</key>
+	<string>Cantor</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>609C60FB-4D31-4981-89E5-77CC3367195B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>

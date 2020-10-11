@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Software Update</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>AC8C92FE-D074-4699-A3F6-CFC58C102670</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SUDisableEVCheck</key>
+			<false/>
+			<key>AllowPreReleaseInstallation</key>
+			<false/>
+			<key>AutomaticCheckEnabled</key>
+			<true/>
+			<key>AutomaticDownload</key>
+			<true/>
+			<key>AutomaticallyInstallAppUpdates</key>
+			<true/>
+			<key>AutomaticallyInstallMacOSUpdates</key>
+			<true/>
+			<key>ConfigDataInstall</key>
+			<true/>
+			<key>CriticalUpdateInstall</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>You installed this with Lucas.
+
+This keeps Apple software safe:
+• Automatically installs updates
+• Automatically updates antivirus
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Software Update</string>
+	<key>PayloadIdentifier</key>
+	<string>Cantor.975307A8-A3FD-4BCE-8B8C-34A46839D09C</string>
+	<key>PayloadOrganization</key>
+	<string>Cantor</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2851A2A1-7A43-4259-84FB-0635DCFE5494</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
