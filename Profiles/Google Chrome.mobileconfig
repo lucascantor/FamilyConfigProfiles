@@ -21,6 +21,8 @@
 			<false/>
 			<key>BlockExternalExtensions</key>
 			<true/>
+			<key>DisableSafeBrowsingProceedAnyway</key>
+			<true/>
 			<key>ExtensionInstallBlocklist</key>
 			<array>
 				<string>*</string>
