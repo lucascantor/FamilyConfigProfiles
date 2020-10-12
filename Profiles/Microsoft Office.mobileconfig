@@ -38,14 +38,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>You installed this with Lucas.
+	<string>Lucas installed this.
 
 This keeps Microsoft Office safe:
 • Automatically installs updates
 • Blocks malicious Office macros
 • Blocks beta versions of Office
-• Saves Office files locally
-</string>
+• Saves Office files locally</string>
 	<key>PayloadDisplayName</key>
 	<string>Microsoft Office</string>
 	<key>PayloadIdentifier</key>

@@ -6,43 +6,29 @@
 	<array>
 		<dict>
 			<key>PayloadDisplayName</key>
-			<string>Software Update</string>
+			<string>FileVault</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.SoftwareUpdate</string>
+			<string>com.apple.MCX</string>
 			<key>PayloadType</key>
-			<string>com.apple.SoftwareUpdate</string>
+			<string>com.apple.MCX</string>
 			<key>PayloadUUID</key>
-			<string>AC8C92FE-D074-4699-A3F6-CFC58C102670</string>
+			<string>06E6F54F-DB8B-46C8-AA29-5987E03D0696</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>SUDisableEVCheck</key>
-			<false/>
-			<key>AllowPreReleaseInstallation</key>
-			<false/>
-			<key>AutomaticCheckEnabled</key>
-			<true/>
-			<key>AutomaticDownload</key>
-			<true/>
-			<key>AutomaticallyInstallAppUpdates</key>
-			<true/>
-			<key>AutomaticallyInstallMacOSUpdates</key>
-			<true/>
-			<key>ConfigDataInstall</key>
-			<true/>
-			<key>CriticalUpdateInstall</key>
+			<key>dontAllowFDEDisable</key>
 			<true/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Lucas installed this.
 
-This keeps macOS safe:
-• Automatically installs updates
-• Automatically updates antivirus</string>
+This keeps your data private:
+• Encrypts all data on your Mac
+• Blocks unauthorized data access</string>
 	<key>PayloadDisplayName</key>
-	<string>Software Update</string>
+	<string>FileVault</string>
 	<key>PayloadIdentifier</key>
-	<string>Cantor.975307A8-A3FD-4BCE-8B8C-34A46839D09C</string>
+	<string>Cantor.F83D9367-497E-4F7D-BFB6-9ABB342A0D5F</string>
 	<key>PayloadOrganization</key>
 	<string>Cantor</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -52,7 +38,7 @@ This keeps macOS safe:
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>2851A2A1-7A43-4259-84FB-0635DCFE5494</string>
+	<string>AA0B2EB1-9853-4FA2-9874-DEB496EBB7D4</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>TargetDeviceType</key>

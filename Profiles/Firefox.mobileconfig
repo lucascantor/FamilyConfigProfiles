@@ -71,7 +71,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>You installed this with Lucas.
+	<string>Lucas installed this.
 
 This keeps Firefox safe:
 • Automatically installs updates
@@ -79,8 +79,7 @@ This keeps Firefox safe:
 • Blocks malicious Firefox add-ons
 • Installs the uBlock Origin ad blocker
 • Installs the 1Password extension
-• Disables Firefox's passsword manager
-</string>
+• Disables Firefox password manager</string>
 	<key>PayloadDisplayName</key>
 	<string>Firefox</string>
 	<key>PayloadIdentifier</key>
