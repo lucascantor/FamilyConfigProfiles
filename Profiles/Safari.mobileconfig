@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Safari</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Safari</string>
+			<key>PayloadType</key>
+			<string>com.apple.Safari</string>
+			<key>PayloadUUID</key>
+			<string>181C3F3C-A6C3-4411-8961-F2AB8576077C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>AutoOpenSafeDownloads</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>You installed this with Lucas.
+
+This keeps Safari safe:
+• Disables auto-opening downloads
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Safari</string>
+	<key>PayloadIdentifier</key>
+	<string>Cantor.040FF1AD-6A06-4ACD-A523-E1481EAFB6EB</string>
+	<key>PayloadOrganization</key>
+	<string>Cantor</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1BD3B192-9369-4991-90E4-5622E9D5B5E3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
