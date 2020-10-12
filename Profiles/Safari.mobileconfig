@@ -20,11 +20,10 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>You installed this with Lucas.
+	<string>Lucas installed this.
 
 This keeps Safari safe:
-• Disables auto-opening downloads
-</string>
+• Disables auto-opening downloads</string>
 	<key>PayloadDisplayName</key>
 	<string>Safari</string>
 	<key>PayloadIdentifier</key>

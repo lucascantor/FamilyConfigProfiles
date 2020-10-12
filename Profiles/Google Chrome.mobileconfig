@@ -59,7 +59,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>You installed this with Lucas.
+	<string>Lucas installed this.
 
 This keeps Google Chrome safe:
 • Automatically installs updates
@@ -68,8 +68,7 @@ This keeps Google Chrome safe:
 • Blocks malicious Chrome extensions
 • Installs the uBlock Origin ad blocker
 • Installs the 1Password extension
-• Disables Google's password manager
-</string>
+• Disables Google's password manager</string>
 	<key>PayloadDisplayName</key>
 	<string>Google Chrome</string>
 	<key>PayloadIdentifier</key>
