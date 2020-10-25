@@ -29,13 +29,11 @@
 			</array>
 			<key>ExtensionInstallForcelist</key>
 			<array>
-				<string>aomjjhallfgjeglblehebfpbcfeobpgk;https://clients2.google.com/service/update2/crx</string>
-				<string>cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx</string>
+				<string>aeblfdkhhhdcdjpifhhbdiojplfjncoa;https://clients2.google.com/service/update2/crx</string>
 			</array>
 			<key>ExtensionInstallAllowlist</key>
 			<array>
 				<string>aomjjhallfgjeglblehebfpbcfeobpgk</string>
-				<string>cjpalhdlnbpafiamejdnhcphjbkeiagm</string>
 				<string>aeblfdkhhhdcdjpifhhbdiojplfjncoa</string>
 			</array>
 			<key>PasswordManagerEnabled</key>
