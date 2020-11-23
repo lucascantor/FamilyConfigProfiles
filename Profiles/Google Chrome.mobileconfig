@@ -64,7 +64,6 @@ This keeps Google Chrome safe:
 • Blocks remote control of Chrome
 • Blocks malicious websites
 • Blocks malicious Chrome extensions
-• Installs the uBlock Origin ad blocker
 • Installs the 1Password extension
 • Disables Google's password manager</string>
 	<key>PayloadDisplayName</key>
