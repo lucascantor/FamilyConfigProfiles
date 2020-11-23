@@ -17,7 +17,7 @@
             <string>2a07:a8c1::</string>
           </array>
           <key>ServerURL</key>
-          <string>https://dns.nextdns.io/ff5a88</string>
+          <string>https://dns.nextdns.io/INSERT_CONFIGURATION_ID_HERE</string>
         </dict>
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
