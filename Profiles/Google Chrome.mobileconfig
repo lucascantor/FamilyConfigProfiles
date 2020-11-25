@@ -29,7 +29,7 @@
 			</array>
 			<key>ExtensionInstallForcelist</key>
 			<array>
-				<string>aeblfdkhhhdcdjpifhhbdiojplfjncoa;https://clients2.google.com/service/update2/crx</string>
+				<string>aomjjhallfgjeglblehebfpbcfeobpgk;https://clients2.google.com/service/update2/crx</string>
 			</array>
 			<key>ExtensionInstallAllowlist</key>
 			<array>
