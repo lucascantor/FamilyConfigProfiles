@@ -16,9 +16,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>AutofillAddressEnabled</key>
-			<false/>
+			<true/>
 			<key>AutofillCreditCardEnabled</key>
-			<false/>
+			<true/>
 			<key>BlockExternalExtensions</key>
 			<true/>
 			<key>DisableSafeBrowsingProceedAnyway</key>
