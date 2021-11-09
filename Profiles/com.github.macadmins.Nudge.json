@@ -1,0 +1,64 @@
+{
+  "optionalFeatures": {
+    "aggressiveUserExperience": true,
+    "asyncronousSoftwareUpdate": true,
+    "attemptToFetchMajorUpgrade": true,
+    "enforceMinorUpdates": true
+  },
+  "osVersionRequirements": [
+    {
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT201541",
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT201541"
+        }
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
+      "requiredInstallationDate": "2021-11-16T00:00:00Z",
+      "requiredMinimumOSVersion": "12.0.1",
+      "targetedOSVersionsRule": "default"
+    }
+  ],
+  "userExperience": {
+    "allowUserQuitDeferrals": true,
+    "allowedDeferrals": 1000000,
+    "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
+    "approachingRefreshCycle": 6000,
+    "approachingWindowTime": 72,
+    "elapsedRefreshCycle": 300,
+    "imminentRefreshCycle": 600,
+    "imminentWindowTime": 24,
+    "initialRefreshCycle": 18000,
+    "maxRandomDelayInSeconds": 1200,
+    "noTimers": false,
+    "nudgeRefreshCycle": 60,
+    "randomDelay": false
+  },
+  "userInterface": {
+    "actionButtonPath": "x-apple.systempreferences:com.apple.preferences.softwareupdate",
+    "fallbackLanguage": "en",
+    "forceFallbackLanguage": false,
+    "showDeferralCount": true,
+    "simpleMode": false,
+    "singleQuitButton": false,
+    "updateElements": [
+      {
+        "_language": "en",
+        "actionButtonText": "Update Now",
+        "customDeferralButtonText": "Custom",
+        "informationButtonText": "More Info",
+        "mainContentHeader": "Your Mac will restart during this update",
+        "mainContentNote": "Important Notes",
+        "mainContentSubHeader": "Updates can take up to 60 minutes to complete",
+        "mainContentText": "This is a friendly reminder from Lucas.\n\nUpdating protects your Mac from known security vulnerabilities!\n\nWaiting until the update deadline might cause an inconvenient interruption!\n\nYou can always install updates yourself in System Preferences.",
+        "mainHeader": "Your Mac requires a security update",
+        "oneDayDeferralButtonText": "One Day",
+        "oneHourDeferralButtonText": "One Hour",
+        "primaryQuitButtonText": "Later",
+        "secondaryQuitButtonText": "I understand the update deadline might cause an inconvenient interruption.",
+        "subHeader": ""
+      }
+    ]
+  }
+}
