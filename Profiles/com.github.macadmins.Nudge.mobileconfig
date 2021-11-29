@@ -16,7 +16,7 @@
         <key>PayloadType</key>
         <string>com.github.macadmins.Nudge</string>
         <key>json-url</key>
-        <string>https://cdn.lucascantor.com/com.github.macadmins.Nudge.json</string>
+        <string>https://raw.githubusercontent.com/lucascantor/FamilyConfigProfiles/master/Assets/nudge.json</string>
         <key>PayloadUUID</key>
         <string>CA02957C-7472-446B-9F77-3E0414405556</string>
         <key>PayloadVersion</key>
