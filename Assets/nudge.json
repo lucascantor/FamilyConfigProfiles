@@ -15,8 +15,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2021-11-16T00:00:00Z",
-      "requiredMinimumOSVersion": "12.0.1",
+      "requiredInstallationDate": "2021-12-17T00:00:00Z",
+      "requiredMinimumOSVersion": "12.1",
       "targetedOSVersionsRule": "default"
     }
   ],
