@@ -54,6 +54,10 @@
 			</array>
 			<key>SafeBrowsingProtectionLevel</key>
 			<integer>2</integer>
+			<key>DnsOverHttpsMode</key>
+			<string>secure</string>
+			<key>DnsOverHttpsTemplates</key>
+			<string>https://dns.nextdns.io/INSERT_CONFIGURATION_ID_HERE/dns-query{?dns}</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
