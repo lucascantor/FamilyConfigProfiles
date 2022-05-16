@@ -9,15 +9,15 @@
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2022-04-07T00:00:00Z",
-      "requiredMinimumOSVersion": "12.3.1",
-      "targetedOSVersionsRule": "12.3"
+      "requiredInstallationDate": "2022-05-23T00:00:00Z",
+      "requiredMinimumOSVersion": "12.4",
+      "targetedOSVersionsRule": "12.3.1"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2022-04-02T00:00:00Z",
-      "requiredMinimumOSVersion": "12.3.1",
+      "requiredInstallationDate": "2022-05-16T00:00:00Z",
+      "requiredMinimumOSVersion": "12.4",
       "targetedOSVersionsRule": "default"
     }
   ],
