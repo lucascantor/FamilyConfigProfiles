@@ -38,16 +38,6 @@
 			<true/>
 			<key>RelaunchNotification</key>
 			<integer>2</integer>
-			<key>RemoteAccessHostAllowFileTransfer</key>
-			<false/>
-			<key>RemoteAccessHostClientDomainList</key>
-			<array>
-				<string>blocked.cantor.cloud</string>
-			</array>
-			<key>RemoteAccessHostDomainList</key>
-			<array>
-				<string>blocked.cantor.cloud</string>
-			</array>
 			<key>SafeBrowsingProtectionLevel</key>
 			<integer>2</integer>
 			<key>DnsOverHttpsMode</key>
@@ -61,7 +51,6 @@
 
 This keeps Google Chrome safe:
 • Automatically installs updates
-• Blocks remote control of Chrome
 • Blocks malicious websites
 • Blocks malicious Chrome extensions
 • Installs the 1Password extension
