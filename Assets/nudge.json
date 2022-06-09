@@ -1,6 +1,7 @@
 {
   "optionalFeatures": {
     "aggressiveUserExperience": true,
+    "aggressiveUserFullScreenExperience": true,
     "asynchronousSoftwareUpdate": true,
     "attemptToFetchMajorUpgrade": true,
     "enforceMinorUpdates": true
@@ -37,7 +38,6 @@
     "randomDelay": false
   },
   "userInterface": {
-    "actionButtonPath": "x-apple.systempreferences:com.apple.preferences.softwareupdate",
     "fallbackLanguage": "en",
     "forceFallbackLanguage": false,
     "showDeferralCount": true,
@@ -57,7 +57,6 @@
         "oneDayDeferralButtonText": "One Day",
         "oneHourDeferralButtonText": "One Hour",
         "primaryQuitButtonText": "Later",
-        "secondaryQuitButtonText": "I understand the update deadline might cause an inconvenient interruption.",
         "subHeader": ""
       }
     ]
