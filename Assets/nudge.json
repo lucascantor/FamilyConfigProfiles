@@ -10,15 +10,15 @@
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2022-11-08T00:00:00Z",
-      "requiredMinimumOSVersion": "12.6.1",
+      "requiredInstallationDate": "2022-12-22T00:00:00Z",
+      "requiredMinimumOSVersion": "12.6.2",
       "targetedOSVersionsRule": "12"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2022-11-16T00:00:00Z",
-      "requiredMinimumOSVersion": "13.0.1",
+      "requiredInstallationDate": "2022-12-22T00:00:00Z",
+      "requiredMinimumOSVersion": "13.1",
       "targetedOSVersionsRule": "default"
     }
   ],
@@ -51,7 +51,7 @@
         "informationButtonText": "More Info",
         "mainContentHeader": "Your Mac will restart during this update",
         "mainContentNote": "Important Notes",
-        "mainContentSubHeader": "Updates can take up to 60 minutes to complete",
+        "mainContentSubHeader": "Updates can take up to 30 minutes to complete",
         "mainContentText": "This is a friendly reminder from Lucas.\n\nUpdating protects your Mac from known security vulnerabilities!\n\nWaiting until the update deadline might cause an inconvenient interruption!\n\nYou can always install updates yourself in System Settings.",
         "mainHeader": "Your Mac requires a security update",
         "oneDayDeferralButtonText": "One Day",
