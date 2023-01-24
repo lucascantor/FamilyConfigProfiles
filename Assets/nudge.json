@@ -10,15 +10,15 @@
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2022-12-22T00:00:00Z",
-      "requiredMinimumOSVersion": "12.6.2",
+      "requiredInstallationDate": "2023-01-28T00:00:00Z",
+      "requiredMinimumOSVersion": "12.6.3",
       "targetedOSVersionsRule": "12"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2022-12-22T00:00:00Z",
-      "requiredMinimumOSVersion": "13.1",
+      "requiredInstallationDate": "2023-01-28T00:00:00Z",
+      "requiredMinimumOSVersion": "13.2",
       "targetedOSVersionsRule": "default"
     }
   ],
