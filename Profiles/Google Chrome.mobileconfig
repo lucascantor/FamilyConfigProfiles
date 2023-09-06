@@ -44,6 +44,14 @@
 			<string>secure</string>
 			<key>DnsOverHttpsTemplates</key>
 			<string>https://dns.nextdns.io/INSERT_CONFIGURATION_ID_HERE/dns-query{?dns}</string>
+			<key>PrivacySandboxPromptEnabled</key>
+			<false/>
+			<key>PrivacySandboxAdMeasurementEnabled</key>
+			<false/>
+			<key>PrivacySandboxAdTopicsEnabled</key>
+			<false/>
+			<key>PrivacySandboxSiteEnabledAdsEnabled</key>
+			<false/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
