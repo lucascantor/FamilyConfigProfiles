@@ -9,16 +9,16 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
-      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2023-11-10T00:00:00Z",
-      "requiredMinimumOSVersion": "14.1.1",
-      "targetedOSVersionsRule": "14.1"
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "requiredInstallationDate": "2023-12-02T00:00:00Z",
+      "requiredMinimumOSVersion": "14.1.2",
+      "targetedOSVersionsRule": "14.1.1"
     },
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
-      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2023-11-07T00:00:00Z",
-      "requiredMinimumOSVersion": "14.1.1",
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "requiredInstallationDate": "2023-12-02T00:00:00Z",
+      "requiredMinimumOSVersion": "14.1.2",
       "targetedOSVersionsRule": "default"
     }
   ],
