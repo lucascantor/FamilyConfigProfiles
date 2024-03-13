@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Service Management - Managed Login Items</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.servicemanagement.37C1DA32-6F80-4981-9D75-01545C3A9458</string>
+			<key>PayloadType</key>
+			<string>com.apple.servicemanagement</string>
+			<key>PayloadUUID</key>
+			<string>E26E99EB-2531-48C7-AF6C-BAED99A8015F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Rules</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>Nudge</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>9GQZ7KUFR6</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Google</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>EQHXZ8M8AV</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Microsoft</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>UBF8T346G9</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>1Password</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>2BUA8C4S2C</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Cantor-managed items authorized to run background tasks without apps running</string>
+	<key>PayloadDisplayName</key>
+	<string>Approved Background Tasks</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.servicemanagement.56393423-DA74-425E-9521-573017753E40</string>
+	<key>PayloadOrganization</key>
+	<string>Cantor</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C2266246-83E2-4D9C-A48E-0BDA86ECBB4B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
