@@ -15,10 +15,6 @@
 			<string>281888C1-4ECC-4F81-A343-FE2BCE856C26</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>AutofillAddressEnabled</key>
-			<true/>
-			<key>AutofillCreditCardEnabled</key>
-			<true/>
 			<key>BlockExternalExtensions</key>
 			<true/>
 			<key>DisableSafeBrowsingProceedAnyway</key>
@@ -30,10 +26,7 @@
 			<key>ExtensionInstallForcelist</key>
 			<array>
 				<string>aeblfdkhhhdcdjpifhhbdiojplfjncoa;https://clients2.google.com/service/update2/crx</string>
-				<string>inomeogfingihgjfjlpeplalcfajhgai;https://clients2.google.com/service/update2/crx</string>
 			</array>
-			<key>PasswordManagerEnabled</key>
-			<false/>
 			<key>PasswordLeakDetectionEnabled</key>
 			<true/>
 			<key>RelaunchNotification</key>
@@ -60,9 +53,9 @@
 This keeps Google Chrome safe:
 • Automatically installs updates
 • Blocks malicious websites
+• Blocks malicious ads
 • Blocks malicious Chrome extensions
-• Installs the 1Password extension
-• Disables Google's password manager</string>
+• Installs the 1Password extension</string>
 	<key>PayloadDisplayName</key>
 	<string>Google Chrome</string>
 	<key>PayloadIdentifier</key>

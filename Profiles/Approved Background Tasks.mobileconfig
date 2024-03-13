@@ -27,6 +27,14 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
+					<string>Mac Admins Open Source</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>T4SK8ZXCXG</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
 					<string>Google</string>
 					<key>RuleType</key>
 					<string>TeamIdentifier</string>

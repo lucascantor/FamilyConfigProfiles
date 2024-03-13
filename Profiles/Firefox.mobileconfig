@@ -17,14 +17,21 @@
 			<integer>1</integer>
 			<key>AppAutoUpdate</key>
 			<true/>
-			<key>DisableFormHistory</key>
-			<true/>
 			<key>DisableSecurityBypass</key>
   			<dict>
     			<key>InvalidCertificate</key>
     			<true/>
     			<key>SafeBrowsing</key>
     			<true/>
+			</dict>
+			<key>DNSOverHTTPS</key>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>ProviderURL</key>
+				<string>https://dns.nextdns.io/INSERT_CONFIGURATION_ID_HERE</string>
+				<key>Locked</key>
+				<true/>
 			</dict>
 			<key>EnterprisePoliciesEnabled</key>
 			<true/>
@@ -59,8 +66,6 @@
 					<string>https://addons.mozilla.org/firefox/downloads/latest/1password-x-password-manager/latest.xpi</string>
 				</dict>
 			</dict>
-			<key>OfferToSaveLogins</key>
-			<false/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -69,10 +74,9 @@
 This keeps Firefox safe:
 • Automatically installs updates
 • Blocks malicious websites
+• Blocks malicious ads
 • Blocks malicious Firefox add-ons
-• Installs the uBlock Origin ad blocker
-• Installs the 1Password extension
-• Disables Firefox password manager</string>
+• Installs the 1Password extension</string>
 	<key>PayloadDisplayName</key>
 	<string>Firefox</string>
 	<key>PayloadIdentifier</key>
