@@ -7,8 +7,8 @@
     {
       "aboutUpdateURL": "https://support.apple.com/en-us/HT201541",
       "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app",
-      "requiredInstallationDate": "2024-03-10T00:00:00Z",
-      "requiredMinimumOSVersion": "14.4",
+      "requiredInstallationDate": "2024-03-29T00:00:00Z",
+      "requiredMinimumOSVersion": "14.4.1",
       "targetedOSVersionsRule": "default"
     }
   ],
