@@ -45,6 +45,12 @@
 			<false/>
 			<key>PrivacySandboxSiteEnabledAdsEnabled</key>
 			<false/>
+			<key>HighEfficiencyModeEnabled</key>
+			<true/>
+			<key>MemorySaverModeSavings</key>
+			<integer>1</integer>
+			<key>BatterySaverModeAvailability</key>
+			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -55,7 +61,9 @@ This keeps Google Chrome safe:
 • Blocks malicious websites
 • Blocks malicious ads
 • Blocks malicious Chrome extensions
-• Installs the 1Password extension</string>
+• Installs the 1Password extension
+• Frees up memory from unused tabs
+• Uses less power when battery is low</string>
 	<key>PayloadDisplayName</key>
 	<string>Google Chrome</string>
 	<key>PayloadIdentifier</key>
